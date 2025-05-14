@@ -325,7 +325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DBbE1FDtMPnNKos6qunT" name="Página-3">
-    <mxGraphModel dx="3002" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3983" dy="2262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -650,11 +650,11 @@
         <mxCell id="moCR0rVcPd6aKFVa_BRQ-39" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="890" y="-251" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moCR0rVcPd6aKFVa_BRQ-40" value="EMPRESA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-190" width="90" height="30" as="geometry" />
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-40" value="empresa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moCR0rVcPd6aKFVa_BRQ-41" value="PROYECTO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-251" width="100" height="30" as="geometry" />
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-41" value="proyecto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="-251" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moCR0rVcPd6aKFVa_BRQ-42" value="tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="70" width="140" height="80" as="geometry" />
@@ -712,6 +712,30 @@
         </mxCell>
         <mxCell id="moCR0rVcPd6aKFVa_BRQ-59" value="postulacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=55;" vertex="1" parent="1">
           <mxGeometry x="760" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-62" value="evalua" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="90" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="moCR0rVcPd6aKFVa_BRQ-62" source="uroeVQlRcZ3ObhbP95q8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695" y="535" as="sourcePoint" />
+            <mxPoint x="-130" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="moCR0rVcPd6aKFVa_BRQ-62" source="moCR0rVcPd6aKFVa_BRQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="90" as="sourcePoint" />
+            <mxPoint x="-120" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-65" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-66" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moCR0rVcPd6aKFVa_BRQ-67" value="empresa" style="text;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="205" y="30" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
